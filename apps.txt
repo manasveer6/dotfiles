@@ -1,0 +1,36 @@
+AeroSpace.app
+AlDente.app
+Android File Transfer.app
+Arc.app
+Bruno.app
+ChatGPT.app
+Dark Reader for Safari.app
+Flow.app
+GarageBand.app
+Google Chrome.app
+Grand Theft Auto Vice City.app
+Hidden Bar.app
+Hot.app
+KeyCastr.app
+Keynote.app
+kitty.app
+MFA-Authenticator-MC.app
+Mos.app
+Motorsports Widgets.app
+MultiViewer for F1.app
+Numbers.app
+Pages.app
+pgAdmin 4.app
+Postman.app
+Rocket.app
+RunCat.app
+Safari.app
+Signal.app
+Spotify.app
+Stats.app
+Tailscale.app
+Telegram.app
+Termius.app
+Turn Off the Lights for Safari.app
+Visual Studio Code.app
+Zed.app
