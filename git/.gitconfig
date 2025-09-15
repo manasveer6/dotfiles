@@ -1,0 +1,12 @@
+[user]
+	email = 129392161+manasveer6@users.noreply.github.com
+	name = manasveer6
+	signingkey = /Users/manasveer/.ssh/id_ed25519.pub
+[core]
+	editor = vim
+[alias]
+	ignore = update-index --skip-worktree
+	unignore = update-index --no-skip-worktree
+	ignored = !git ls-files -v | grep \"^S\"
+[gpg]
+	format = ssh
